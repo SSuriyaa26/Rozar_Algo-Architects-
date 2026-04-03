@@ -110,6 +110,6 @@ Current gig-work platforms require app downloads, typing, and English literacy. 
 
 * Nataasha Leo-  Ideation , System Architecture and UI/UX
 
-
+Deployment: rozar-algo-architects-kdzthpd3v-ssuriyaa26s-projects.vercel.app
 
 Team Algo Architects
