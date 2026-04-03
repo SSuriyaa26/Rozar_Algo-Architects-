@@ -1,0 +1,33 @@
+# Rozar .gitignore
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/settings.json
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Node (if you add a dev server later)
+node_modules/
+package-lock.json
+
+# Build outputs
+dist/
+build/
+
+# Environment files (never commit secrets)
+.env
+.env.local
+.env.production
+
+# Temp files
+*.tmp
+*.bak
